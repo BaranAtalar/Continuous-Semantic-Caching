@@ -87,6 +87,6 @@ The cache is chosen with **Reverse Greedy**: starting from all candidates, repea
       eprint={2604.20021},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2604.20021}, 
+      note={arXiv preprint arXiv:2604.20021 (2026)}, 
 }
 ```
