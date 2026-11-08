@@ -80,13 +80,13 @@ The cache is chosen with **Reverse Greedy**: starting from all candidates, repea
 ## Citation
 
 ```bibtex
-@inproceedings{atalar2026continuous,
-  author    = {Atalar, Baran and Wang, Siwei and Liu, Xutong and Chen, Wei and Zuo, Jinhang and Joe-Wong, Carlee},
-  title     = {Continuous Semantic Caching for Low-Cost {LLM} Serving},
-  booktitle = {Proceedings of the Twenty-seventh International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc '26)},
-  year      = {2026},
-  address   = {Tokyo, Japan},
-  publisher = {ACM},
-  doi       = {10.1145/3842721.3849656}
+@misc{atalar2026continuoussemanticcachinglowcost,
+      title={Continuous Semantic Caching for Low-Cost LLM Serving}, 
+      author={Baran Atalar and Xutong Liu and Jinhang Zuo and Siwei Wang and Wei Chen and Carlee Joe-Wong},
+      year={2026},
+      eprint={2604.20021},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2604.20021}, 
 }
 ```
